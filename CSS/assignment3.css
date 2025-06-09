@@ -1,0 +1,9 @@
+.parent {
+  font-size: 20px;
+  color: darkblue;
+}
+.parent {
+  font-size: 20px;
+  color: darkblue;
+  border: 2px solid red;
+}

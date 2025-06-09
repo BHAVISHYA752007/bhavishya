@@ -1,0 +1,21 @@
+.inline-btn {
+  display: inline;
+  border: 2px solid blue;
+  padding: 10px;
+  background-color: lightblue;
+}
+
+.block-btn {
+  display: block;
+  border: 2px solid green;
+  padding: 10px;
+  background-color: lightgreen;
+  margin-bottom: 10px;
+}
+
+.inline-block-btn {
+  display: inline-block;
+  border: 2px solid red;
+  padding: 10px;
+  background-color: lightcoral;
+}
